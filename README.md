@@ -1,1 +1,1 @@
-Please follow the instructions inside Readme.txt to run the Application
+Please follow the instructions inside Read me.txt to run the Web and Desktop Application
